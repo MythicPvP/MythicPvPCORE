@@ -1,0 +1,7 @@
+name: MythicPvPCore
+version: 1.0.1
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+main: MythicPvPCore\Loader
+author: Anyone Who commits to the core
+website: https://github.com/MythicPvP
+permissions:
